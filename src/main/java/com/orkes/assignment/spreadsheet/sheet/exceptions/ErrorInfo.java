@@ -2,8 +2,6 @@ package com.orkes.assignment.spreadsheet.sheet.exceptions;
 
 import java.util.Date;
 
-import org.springframework.http.HttpStatus;
-
 public class ErrorInfo {
     private Date date;
     private String message;
