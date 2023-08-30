@@ -1,4 +1,4 @@
-package com.orkes.assignment.spreadsheet.exceptions;
+package com.orkes.assignment.spreadsheet.sheet.exceptions;
 
 public class EmptyCellException extends IllegalArgumentException {
 

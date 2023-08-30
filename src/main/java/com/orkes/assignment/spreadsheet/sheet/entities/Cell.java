@@ -3,7 +3,7 @@ package com.orkes.assignment.spreadsheet.sheet.entities;
 import java.util.Set;
 import java.util.regex.Pattern;
 
-import com.orkes.assignment.spreadsheet.exceptions.InvalidExpressionException;
+import com.orkes.assignment.spreadsheet.sheet.exceptions.InvalidExpressionException;
 import com.orkes.assignment.spreadsheet.sheet.repositories.Sheet;
 
 /**

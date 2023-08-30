@@ -9,7 +9,7 @@ import java.util.Set;
 
 import org.springframework.stereotype.Repository;
 
-import com.orkes.assignment.spreadsheet.exceptions.CyclicDependencyException;
+import com.orkes.assignment.spreadsheet.sheet.exceptions.CyclicDependencyException;
 
 @Repository
 public final class Triggers implements TriggerRepository<String> {
